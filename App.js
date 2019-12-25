@@ -4,7 +4,7 @@ import { Text, SafeAreaView } from 'react-native';
 const App = () => {
   return (
     <SafeAreaView>
-      <Text>Hydroport</Text>
+      <Text>Hydroport kazes a Kobi? hahahah</Text>
     </SafeAreaView>
   );
 };
